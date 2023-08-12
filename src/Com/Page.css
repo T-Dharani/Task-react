@@ -1,0 +1,40 @@
+.s1{
+    background-color: rgb(241, 241, 241);
+}
+.p1{
+    margin-right: 12px;
+}
+.d3{
+    background-image: url('../img/slide-1.jpeg');
+    height: 500px;
+}
+.off{
+width: 90px;
+padding: 5px;
+}
+.r4{
+    padding: 10%;
+}
+.checked {
+    color: orange;
+  }
+.c71{
+    background-image: url('../img/banner1.jpeg');
+}
+.c72{
+    background-image: url('../img/banner2.jpeg')
+}
+.ct{
+    background-color: rgb(10, 0, 0);
+}
+.i{
+    width: 100%;
+    background-color: rgb(36, 7, 7);
+    color: white;
+}
+.b{
+    width: 100%;
+}
+.bb{
+    background-color: black;
+}
